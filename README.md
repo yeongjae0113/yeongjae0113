@@ -1,7 +1,7 @@
 ## 🏃Github Stats
 ![Yeongjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjae0113&show_icons=true&theme=great-gatsby&count_private=true)
 
-
+## 👨‍💻Tech Stack
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 ![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=fff&style=for-the-badge)
