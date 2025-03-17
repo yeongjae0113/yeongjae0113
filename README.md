@@ -1,5 +1,5 @@
 ## 🏃Github Stats 
-![Yeongjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjae0113&show_icons=true&theme=great-gatsby&count_private=true)   
+![Yeongjae's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjae0113&show_icons=true&theme=great-gatsby&count_private=true)    
 
 ## 👨‍💻Tech Stack
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
